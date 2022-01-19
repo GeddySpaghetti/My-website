@@ -1,3 +1,22 @@
 body {
-    background: blue;
+    background: rgb(244, 244, 247);
   }
+
+  h2 {
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+
+  body {
+    background: url(https://static01.nyt.com/images/2021/02/23/science/15comet/15comet-mediumSquareAt3X.jpg) center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+  }
+  
+  
+  
+  #BigBoom {background-image: url(https://c.tenor.com/N53ksdiUNcoAAAAC/explosion-boom.gif)}
+  
+  
